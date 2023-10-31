@@ -147,7 +147,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![TT FWAD](https://github.com/Sahithya373/slot/assets/147017926/1f40ba3f-d87d-428d-9b9f-023e2ef238a8)
+![Screenshot (17)](https://github.com/Sahithya373/slot/assets/147017926/f863443f-90cc-4c15-b0e9-d512b55d5a1b)
+
 
 
 ## RESULT
